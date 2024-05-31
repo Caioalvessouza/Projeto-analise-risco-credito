@@ -59,9 +59,13 @@ Para prever a probabilidade de inadimplência de um novo cliente:
 
 ## Principais Pontos Abordados:
 1- Importação e Pré-processamento dos Dados: Codificação das variáveis categóricas e normalização dos dados.
+
 2- Divisão dos Dados: Divisão em conjuntos de treinamento e teste.
+
 3- Modelagem: Uso de KNN com busca de hiperparâmetros utilizando 'GridSearchCV'
+
 4-Avaliação do Modelo: Cálculo de métricas de desempenho como acurácia, precisão, recall e F1-Score.
+
 5-Previsão: Previsão da probabilidade de inadimplência para novos clientes.
 
 ## Conclusão e Resumo dos Resultados
