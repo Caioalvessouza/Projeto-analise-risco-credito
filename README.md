@@ -64,9 +64,9 @@ Para prever a probabilidade de inadimplência de um novo cliente:
 
 3- Modelagem: Uso de KNN com busca de hiperparâmetros utilizando 'GridSearchCV'
 
-4-Avaliação do Modelo: Cálculo de métricas de desempenho como acurácia, precisão, recall e F1-Score.
+4- Avaliação do Modelo: Cálculo de métricas de desempenho como acurácia, precisão, recall e F1-Score.
 
-5-Previsão: Previsão da probabilidade de inadimplência para novos clientes.
+5- Previsão: Previsão da probabilidade de inadimplência para novos clientes.
 
 ## Conclusão e Resumo dos Resultados
 O modelo KNN treinado apresentou um bom desempenho com uma acurácia de 0.8 e uma precisão ponderada de aproximadamente 87%. Através da busca de hiperparâmetros, identificamos que os melhores parâmetros para o modelo são 'metric': 'manhattan', 'n_neighbors': 5 e 'weights': 'distance'. O modelo foi capaz de prever com alta confiança a classe de um novo cliente, indicando sua capacidade de identificar corretamente clientes com risco de crédito. Este modelo pode ser uma ferramenta valiosa para o Banco do Futuro, ajudando a automatizar e melhorar a precisão do processo de análise de crédito.
