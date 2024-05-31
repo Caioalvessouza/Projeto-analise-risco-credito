@@ -26,6 +26,7 @@ Selecionado as colunas relevantes e feito a divisão dos dados entre conjuntos d
 ![treinamento_teste](img/treinamento_teste.png)
 
 Normalizando os dados:
+
 ![Normalizamos_dados](img/Normalizamos_dados.png)
 
 ## Treinamento e Avaliação do Modelo
