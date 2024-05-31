@@ -23,7 +23,7 @@ Carregado os dados e realizado a codificação das variáveis categóricas:
 
 Selecionado as colunas relevantes e feito a divisão dos dados entre conjuntos de treinamento e teste:
 
-![Selecionamos_as_colunas relevantes_dividimos_dados_conjuntos_de_treinamento_teste](img/Selecionamos_as_colunas relevantes_dividimos_dados_conjuntos_de_treinamento_teste.png)
+![treinamento_teste](img/treinamento_teste.png)
 
 Normalizando os dados:
 ![Normalizamos_dados](img/Normalizamos_dados.png)
