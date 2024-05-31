@@ -35,9 +35,11 @@ Definindo e treinando o modelo KNN utilizando GridSearchCV para encontrar os mel
 ![treinar_modelo_KNN](img/treinar_modelo_KNN.png)
 
 Previsões no conjunto de teste e avaliação do modelo:
+
 ![previsões_conjunto_teste_avaliamos_modelo](previsões_conjunto_teste_avaliamos_modelo.png)
 
 ## Resultados de Avaliação :
+
 ## Melhores Hiperparâmetros: 
 {'metric': 'manhattan', 'n_neighbors': 5, 'weights': 'distance'}
 ## Acurácia:
