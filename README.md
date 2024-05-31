@@ -19,23 +19,22 @@ Primeiro, é feito as importações das bibliotecas necessárias:
 ## Carregamento e Pré-processamento dos Dados
 Carregado os dados e realizado a codificação das variáveis categóricas:
 
-----------
+![Carregamento_Pré_processamento_dos_Dados](img/Carregamento_Pré_processamento_dos_Dados.png)
 
 Selecionado as colunas relevantes e feito a divisão dos dados entre conjuntos de treinamento e teste:
 
------------
+![Selecionamos_as_colunas relevantes_dividimos_dados_conjuntos_de_treinamento_teste](img/Selecionamos_as_colunas relevantes_dividimos_dados_conjuntos_de_treinamento_teste.png)
 
 Normalizando os dados:
+![Normalizamos_dados](img/Normalizamos_dados.png)
 
 ## Treinamento e Avaliação do Modelo
 Definindo e treinando o modelo KNN utilizando GridSearchCV para encontrar os melhores hiperparâmetros:
 
------------
+![treinar_modelo_KNN](img/treinar_modelo_KNN.png)
 
 Previsões no conjunto de teste e avaliação do modelo:
-
-
-----------------
+![previsões_conjunto_teste_avaliamos_modelo](previsões_conjunto_teste_avaliamos_modelo.png)
 
 ## Resultados de Avaliação :
 ## Melhores Hiperparâmetros: 
@@ -52,7 +51,7 @@ Previsões no conjunto de teste e avaliação do modelo:
 ## Previsão de Inadimplência
 Para prever a probabilidade de inadimplência de um novo cliente:
 
----------------
+![Previsão_de_Inadimplência](Previsão_de_Inadimplência.png)
 
 ## Probabilidades de cada classe:
 [0. 0. 0. 0. 1.]
