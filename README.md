@@ -57,6 +57,8 @@ Para prever a probabilidade de inadimplência de um novo cliente:
 ## Probabilidades de cada classe:
 [0. 0. 0. 0. 1.]
 
+O modelo está extremamente confiante de que o novo cliente pertence à Classe 4, que representa "Negação de crédito".
+
 ## Principais Pontos Abordados:
 1- Importação e Pré-processamento dos Dados: Codificação das variáveis categóricas e normalização dos dados.
 
@@ -69,7 +71,7 @@ Para prever a probabilidade de inadimplência de um novo cliente:
 5- Previsão: Previsão da probabilidade de inadimplência para novos clientes.
 
 ## Conclusão e Resumo dos Resultados
-O modelo KNN treinado apresentou um bom desempenho com uma acurácia de 0.8 e uma precisão ponderada de aproximadamente 87%. Através da busca de hiperparâmetros, identificamos que os melhores parâmetros para o modelo são 'metric': 'manhattan', 'n_neighbors': 5 e 'weights': 'distance'. O modelo foi capaz de prever com alta confiança a classe de um novo cliente, indicando sua capacidade de identificar corretamente clientes com risco de crédito. Este modelo pode ser uma ferramenta valiosa para o Banco do Futuro, ajudando a automatizar e melhorar a precisão do processo de análise de crédito.
+O modelo KNN treinado apresentou um bom desempenho com uma acurácia de 0.8 e uma precisão ponderada de aproximadamente 87%. Através da busca de hiperparâmetros, identificamos que os melhores parâmetros para o modelo são 'metric': 'manhattan', 'n_neighbors': 5. O modelo foi capaz de prever com alta confiança a classe de um novo cliente, indicando sua capacidade de identificar corretamente clientes com risco de crédito. Este modelo pode ser uma ferramenta valiosa para o Banco do Futuro, ajudando a automatizar e melhorar a precisão do processo de análise de crédito.
 
 
 
