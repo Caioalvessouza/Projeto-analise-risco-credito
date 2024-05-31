@@ -14,7 +14,7 @@ A seguir está o processo completo de codificação usado para desenvolver o mod
 ## Importação de Bibliotecas
 Primeiro, é feito as importações das bibliotecas necessárias:
 
-![Carregamento_Pré_processamento_dos_Dados](img/Carregamento_Pré_processamento_dos_Dados.png)
+![Importação_de_Bibliotecas](img/Importação_de_Bibliotecas.png)
 
 ## Carregamento e Pré-processamento dos Dados
 Carregado os dados e realizado a codificação das variáveis categóricas:
